@@ -1,0 +1,35 @@
+C:\Users\shane.booth\Downloads\migrations\Migrations\obj\Debug\Migrations.csprojAssemblyReference.cache
+C:\Users\shane.booth\Downloads\migrations\Migrations\obj\Debug\Migrations.csproj.CoreCompileInputs.cache
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\csc.exe
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\csc.exe.config
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\csc.rsp
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\csi.exe
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\csi.rsp
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\System.AppContext.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\System.Collections.Immutable.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\System.IO.FileSystem.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\System.Reflection.Metadata.dll
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\vbc.exe
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\vbc.exe.config
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\vbc.rsp
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\VBCSCompiler.exe
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\roslyn\VBCSCompiler.exe.config
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\.deploy\PostDeploy.ps1
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\RootNameSpace.Migrations.exe.config
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\RootNameSpace.Migrations.exe
+C:\Users\shane.booth\Downloads\build\any cpu\debug\migrations\RootNameSpace.Migrations.pdb
+C:\Users\shane.booth\Downloads\migrations\Migrations\obj\Debug\Migrations.csproj.CopyComplete
+C:\Users\shane.booth\Downloads\migrations\Migrations\obj\Debug\RootNameSpace.Migrations.exe
+C:\Users\shane.booth\Downloads\migrations\Migrations\obj\Debug\RootNameSpace.Migrations.pdb
